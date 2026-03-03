@@ -57,7 +57,7 @@ export default function RootLayout({
   return (
       <html lang="en" className={`${cormorant.variable} ${lato.variable}`}>
         <head>
-          <meta name="google-site-verification" content="abc123xyz" />
+          <meta name="google-site-verification" content="_umnpK8a5MLIrezjqJB6hR9Mjc6XciqDBGAuFWfQbIs" /><meta name="google-site-verification" content="abc123xyz" />
         </head>
         <body className="antialiased" style={{ fontFamily: 'var(--font-lato), Arial, sans-serif' }}>
           {children}
